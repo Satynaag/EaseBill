@@ -1,15 +1,9 @@
 
----
 
 ### ✅ Project : QuickCheckout
-
+**Live Demo**: [https://billo-checkout-mu.vercel.app](https://quick-checkout-mu.vercel.app)
 ```markdown
 # 🛒 QuickBill – Smart Grocery Billing App
-
-**Live Demo**: [https://billo-checkout-mu.vercel.app](https://quick-checkout-mu.vercel.app)
-
----
-
 ## 📌 Overview
 
 **EaseBill** is a web-based application designed for grocery store owners to streamline their billing process. It allows shopkeepers to scan product barcodes one by one to automatically generate a receipt and QR code. Customers can simply scan the QR code to access their digital receipt.
