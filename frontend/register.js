@@ -3,7 +3,7 @@ import {getFirestore,doc,getDoc,addDoc,setDoc,collection} from "https://www.gsta
 
 var db;
 
-fetch('https://quick-checkout-api.vercel.app/firebase-config')
+fetch('https://ease-bill.vercel.app/firebase-config')
     .then(response =>{
         return response.json();
     })

@@ -10,7 +10,7 @@ const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 const username = urlParams.get('mrid');
 
-fetch('https://quick-checkout-api.vercel.app/firebase-config')
+fetch('https://ease-bill.vercel.app/firebase-config')
     .then(response =>{
         return response.json();
     })

@@ -69,7 +69,7 @@ else {
 var app;
 var db;
 var index = 1;
-fetch('https://quick-checkout-api.vercel.app/firebase-config')
+fetch('https://ease-bill.vercel.app/firebase-config')
     .then(response =>{
         return response.json();
     })
